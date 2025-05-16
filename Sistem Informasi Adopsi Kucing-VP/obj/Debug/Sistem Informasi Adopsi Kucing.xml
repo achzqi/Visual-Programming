@@ -1,0 +1,341 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Sistem Informasi Adopsi Kucing
+</name>
+</assembly>
+<members>
+<member name="T:Sistem_Informasi_Adopsi_Kucing.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Sistem_Informasi_Adopsi_Kucing.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Sistem_Informasi_Adopsi_Kucing.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Sistem_Informasi_Adopsi_Kucing.My.Resources.Resources.Belum_Punya_Akun_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Informasi_Adopsi_Kucing.My.Resources.Resources.CatDopt">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Informasi_Adopsi_Kucing.My.Resources.Resources.catgif13">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Informasi_Adopsi_Kucing.My.Resources.Resources.Data_Pengadopsi">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Informasi_Adopsi_Kucing.My.Resources.Resources.eye_closed">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Informasi_Adopsi_Kucing.My.Resources.Resources.eye_open">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Informasi_Adopsi_Kucing.My.Resources.Resources.Group">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Informasi_Adopsi_Kucing.My.Resources.Resources.Group_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Informasi_Adopsi_Kucing.My.Resources.Resources.Group_11">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Informasi_Adopsi_Kucing.My.Resources.Resources.Group_111">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Informasi_Adopsi_Kucing.My.Resources.Resources.Group_112">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Informasi_Adopsi_Kucing.My.Resources.Resources.Group_12">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Informasi_Adopsi_Kucing.My.Resources.Resources.Group_121">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Informasi_Adopsi_Kucing.My.Resources.Resources.Group_122">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Informasi_Adopsi_Kucing.My.Resources.Resources.Group_13">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Informasi_Adopsi_Kucing.My.Resources.Resources.Group_131">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Informasi_Adopsi_Kucing.My.Resources.Resources.Group_132">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Informasi_Adopsi_Kucing.My.Resources.Resources.Group_14">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Informasi_Adopsi_Kucing.My.Resources.Resources.Group_141">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Informasi_Adopsi_Kucing.My.Resources.Resources.Group_142">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Informasi_Adopsi_Kucing.My.Resources.Resources.Group_15">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Informasi_Adopsi_Kucing.My.Resources.Resources.Group_151">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Informasi_Adopsi_Kucing.My.Resources.Resources.Group_16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Informasi_Adopsi_Kucing.My.Resources.Resources.Group_161">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Informasi_Adopsi_Kucing.My.Resources.Resources.Group_17">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Informasi_Adopsi_Kucing.My.Resources.Resources.Group_18">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Informasi_Adopsi_Kucing.My.Resources.Resources.Group_18__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Informasi_Adopsi_Kucing.My.Resources.Resources.Group_2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Informasi_Adopsi_Kucing.My.Resources.Resources.Group_22">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Informasi_Adopsi_Kucing.My.Resources.Resources.Group_23">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Informasi_Adopsi_Kucing.My.Resources.Resources.Group_3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Informasi_Adopsi_Kucing.My.Resources.Resources.Group_4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Informasi_Adopsi_Kucing.My.Resources.Resources.Group_5">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Informasi_Adopsi_Kucing.My.Resources.Resources.Group_9">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Informasi_Adopsi_Kucing.My.Resources.Resources.Group_91">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Informasi_Adopsi_Kucing.My.Resources.Resources.Image1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Informasi_Adopsi_Kucing.My.Resources.Resources.Jenis_Kelamin">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Informasi_Adopsi_Kucing.My.Resources.Resources.Jenis_Ras">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Informasi_Adopsi_Kucing.My.Resources.Resources.Log_In">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Informasi_Adopsi_Kucing.My.Resources.Resources.Nama_Kucing">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Informasi_Adopsi_Kucing.My.Resources.Resources.Password">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Informasi_Adopsi_Kucing.My.Resources.Resources.Rectangle_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Informasi_Adopsi_Kucing.My.Resources.Resources.Rectangle_111">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Informasi_Adopsi_Kucing.My.Resources.Resources.Rectangle_12">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Informasi_Adopsi_Kucing.My.Resources.Resources.Rectangle_15">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Informasi_Adopsi_Kucing.My.Resources.Resources.Rectangle_151">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Informasi_Adopsi_Kucing.My.Resources.Resources.Rectangle_2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Informasi_Adopsi_Kucing.My.Resources.Resources.Rectangle_20">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Informasi_Adopsi_Kucing.My.Resources.Resources.Rectangle_21">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Informasi_Adopsi_Kucing.My.Resources.Resources.Rectangle_22">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Informasi_Adopsi_Kucing.My.Resources.Resources.Rectangle_23">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Informasi_Adopsi_Kucing.My.Resources.Resources.Rectangle_24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Informasi_Adopsi_Kucing.My.Resources.Resources.Rectangle_26">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Informasi_Adopsi_Kucing.My.Resources.Resources.Rectangle_3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Informasi_Adopsi_Kucing.My.Resources.Resources.Rectangle_4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Informasi_Adopsi_Kucing.My.Resources.Resources.Rectangle_74">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Informasi_Adopsi_Kucing.My.Resources.Resources.Sign_In">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Informasi_Adopsi_Kucing.My.Resources.Resources.Status_Adopsi">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Informasi_Adopsi_Kucing.My.Resources.Resources.Status_Steril">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Informasi_Adopsi_Kucing.My.Resources.Resources.Status_Vaksinasi">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Informasi_Adopsi_Kucing.My.Resources.Resources.Tanggal_Masuk">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Informasi_Adopsi_Kucing.My.Resources.Resources.Umur">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Informasi_Adopsi_Kucing.My.Resources.Resources.Username">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,48 @@
+E:\Visual Studio 2022\Sistem Informasi Adopsi Kucing\Sistem Informasi Adopsi Kucing\bin\Debug\Sistem Informasi Adopsi Kucing.exe.config
+E:\Visual Studio 2022\Sistem Informasi Adopsi Kucing\Sistem Informasi Adopsi Kucing\bin\Debug\Sistem Informasi Adopsi Kucing.exe
+E:\Visual Studio 2022\Sistem Informasi Adopsi Kucing\Sistem Informasi Adopsi Kucing\bin\Debug\Sistem Informasi Adopsi Kucing.pdb
+E:\Visual Studio 2022\Sistem Informasi Adopsi Kucing\Sistem Informasi Adopsi Kucing\bin\Debug\Sistem Informasi Adopsi Kucing.xml
+E:\Visual Studio 2022\Sistem Informasi Adopsi Kucing\Sistem Informasi Adopsi Kucing\obj\Debug\Sistem Informasi Adopsi Kucing.vbproj.AssemblyReference.cache
+E:\Visual Studio 2022\Sistem Informasi Adopsi Kucing\Sistem Informasi Adopsi Kucing\obj\Debug\Sistem_Informasi_Adopsi_Kucing.Form1.resources
+E:\Visual Studio 2022\Sistem Informasi Adopsi Kucing\Sistem Informasi Adopsi Kucing\obj\Debug\Sistem_Informasi_Adopsi_Kucing.Resources.resources
+E:\Visual Studio 2022\Sistem Informasi Adopsi Kucing\Sistem Informasi Adopsi Kucing\obj\Debug\Sistem Informasi Adopsi Kucing.vbproj.GenerateResource.cache
+E:\Visual Studio 2022\Sistem Informasi Adopsi Kucing\Sistem Informasi Adopsi Kucing\obj\Debug\Sistem Informasi Adopsi Kucing.vbproj.CoreCompileInputs.cache
+E:\Visual Studio 2022\Sistem Informasi Adopsi Kucing\Sistem Informasi Adopsi Kucing\obj\Debug\Sistem Informasi Adopsi Kucing.exe
+E:\Visual Studio 2022\Sistem Informasi Adopsi Kucing\Sistem Informasi Adopsi Kucing\obj\Debug\Sistem Informasi Adopsi Kucing.xml
+E:\Visual Studio 2022\Sistem Informasi Adopsi Kucing\Sistem Informasi Adopsi Kucing\obj\Debug\Sistem Informasi Adopsi Kucing.pdb
+E:\Visual Studio 2022\Sistem Informasi Adopsi Kucing\Sistem Informasi Adopsi Kucing\bin\Debug\MySql.Data.dll
+E:\Visual Studio 2022\Sistem Informasi Adopsi Kucing\Sistem Informasi Adopsi Kucing\bin\Debug\System.Memory.dll
+E:\Visual Studio 2022\Sistem Informasi Adopsi Kucing\Sistem Informasi Adopsi Kucing\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Visual Studio 2022\Sistem Informasi Adopsi Kucing\Sistem Informasi Adopsi Kucing\bin\Debug\System.Numerics.Vectors.dll
+E:\Visual Studio 2022\Sistem Informasi Adopsi Kucing\Sistem Informasi Adopsi Kucing\bin\Debug\System.Buffers.dll
+E:\Visual Studio 2022\Sistem Informasi Adopsi Kucing\Sistem Informasi Adopsi Kucing\obj\Debug\Sistem I.D9B0EFB3.Up2Date
+E:\Visual Studio 2022\Sistem Informasi Adopsi Kucing\Sistem Informasi Adopsi Kucing\obj\Debug\Sistem_Informasi_Adopsi_Kucing.Form2.resources
+E:\Visual Studio 2022\Sistem Informasi Adopsi Kucing\Sistem Informasi Adopsi Kucing\obj\Debug\Sistem_Informasi_Adopsi_Kucing.Form3.resources
+E:\Visual Studio 2022\Sistem Informasi Adopsi Kucing\Sistem Informasi Adopsi Kucing\obj\Debug\Sistem_Informasi_Adopsi_Kucing.Form4.resources
+E:\Visual Studio 2022\Sistem Informasi Adopsi Kucing2\Sistem Informasi Adopsi Kucing\bin\Debug\Sistem Informasi Adopsi Kucing.exe.config
+E:\Visual Studio 2022\Sistem Informasi Adopsi Kucing2\Sistem Informasi Adopsi Kucing\bin\Debug\Sistem Informasi Adopsi Kucing.exe
+E:\Visual Studio 2022\Sistem Informasi Adopsi Kucing2\Sistem Informasi Adopsi Kucing\bin\Debug\Sistem Informasi Adopsi Kucing.pdb
+E:\Visual Studio 2022\Sistem Informasi Adopsi Kucing2\Sistem Informasi Adopsi Kucing\bin\Debug\Sistem Informasi Adopsi Kucing.xml
+E:\Visual Studio 2022\Sistem Informasi Adopsi Kucing2\Sistem Informasi Adopsi Kucing\bin\Debug\MySql.Data.dll
+E:\Visual Studio 2022\Sistem Informasi Adopsi Kucing2\Sistem Informasi Adopsi Kucing\bin\Debug\System.Memory.dll
+E:\Visual Studio 2022\Sistem Informasi Adopsi Kucing2\Sistem Informasi Adopsi Kucing\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Visual Studio 2022\Sistem Informasi Adopsi Kucing2\Sistem Informasi Adopsi Kucing\bin\Debug\System.Numerics.Vectors.dll
+E:\Visual Studio 2022\Sistem Informasi Adopsi Kucing2\Sistem Informasi Adopsi Kucing\bin\Debug\System.Buffers.dll
+E:\Visual Studio 2022\Sistem Informasi Adopsi Kucing2\Sistem Informasi Adopsi Kucing\obj\Debug\Sistem Informasi Adopsi Kucing.vbproj.AssemblyReference.cache
+E:\Visual Studio 2022\Sistem Informasi Adopsi Kucing2\Sistem Informasi Adopsi Kucing\obj\Debug\Sistem_Informasi_Adopsi_Kucing.Form1.resources
+E:\Visual Studio 2022\Sistem Informasi Adopsi Kucing2\Sistem Informasi Adopsi Kucing\obj\Debug\Sistem_Informasi_Adopsi_Kucing.Form2.resources
+E:\Visual Studio 2022\Sistem Informasi Adopsi Kucing2\Sistem Informasi Adopsi Kucing\obj\Debug\Sistem_Informasi_Adopsi_Kucing.Form3.resources
+E:\Visual Studio 2022\Sistem Informasi Adopsi Kucing2\Sistem Informasi Adopsi Kucing\obj\Debug\Sistem_Informasi_Adopsi_Kucing.Form4.resources
+E:\Visual Studio 2022\Sistem Informasi Adopsi Kucing2\Sistem Informasi Adopsi Kucing\obj\Debug\Sistem_Informasi_Adopsi_Kucing.Resources.resources
+E:\Visual Studio 2022\Sistem Informasi Adopsi Kucing2\Sistem Informasi Adopsi Kucing\obj\Debug\Sistem Informasi Adopsi Kucing.vbproj.GenerateResource.cache
+E:\Visual Studio 2022\Sistem Informasi Adopsi Kucing2\Sistem Informasi Adopsi Kucing\obj\Debug\Sistem Informasi Adopsi Kucing.vbproj.CoreCompileInputs.cache
+E:\Visual Studio 2022\Sistem Informasi Adopsi Kucing2\Sistem Informasi Adopsi Kucing\obj\Debug\Sistem I.D9B0EFB3.Up2Date
+E:\Visual Studio 2022\Sistem Informasi Adopsi Kucing2\Sistem Informasi Adopsi Kucing\obj\Debug\Sistem Informasi Adopsi Kucing.exe
+E:\Visual Studio 2022\Sistem Informasi Adopsi Kucing2\Sistem Informasi Adopsi Kucing\obj\Debug\Sistem Informasi Adopsi Kucing.xml
+E:\Visual Studio 2022\Sistem Informasi Adopsi Kucing2\Sistem Informasi Adopsi Kucing\obj\Debug\Sistem Informasi Adopsi Kucing.pdb
+E:\Visual Studio 2022\Sistem Informasi Adopsi Kucing2\Sistem Informasi Adopsi Kucing\obj\Debug\Sistem_Informasi_Adopsi_Kucing.FormDetailKucing.resources
+E:\Visual Studio 2022\Sistem Informasi Adopsi Kucing2\Sistem Informasi Adopsi Kucing\obj\Debug\Sistem_Informasi_Adopsi_Kucing.Form6.resources
+D:\download\kiii\Sistem Informasi Adopsi Kucing2\Sistem Informasi Adopsi Kucing\obj\Debug\Sistem Informasi Adopsi Kucing.vbproj.AssemblyReference.cache
+D:\download\kiii\Sistem Informasi Adopsi Kucing2\Sistem Informasi Adopsi Kucing\obj\Debug\Sistem Informasi Adopsi Kucing.exe
+D:\download\kiii\Sistem Informasi Adopsi Kucing2\Sistem Informasi Adopsi Kucing\obj\Debug\Sistem Informasi Adopsi Kucing.xml
+D:\download\kiii\Sistem Informasi Adopsi Kucing2\Sistem Informasi Adopsi Kucing\obj\Debug\Sistem Informasi Adopsi Kucing.pdb
